@@ -1,0 +1,26 @@
+.container__get-user {
+  margin: 25px;
+  text-align: center;
+}
+
+.user-info__avatar{
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.form__user-input input{
+  margin: 10px;
+  height: 48px;
+  width: 500px;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.form__user-input input::placeholder{
+  opacity: 0.4
+}
+
+.info-display__user{
+  font-size: 16pt;
+  margin: 6px;
+}
